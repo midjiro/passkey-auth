@@ -1,5 +1,5 @@
-import { init } from '@/services/init-auth';
-import { verify } from '@/services/verify-auth';
+import { init } from '@/services/login/init-auth';
+import { verify } from '@/services/login/verify-auth';
 import { startAuthentication } from '@simplewebauthn/browser';
 import { toast } from '@/shared/components/ui/toast';
 

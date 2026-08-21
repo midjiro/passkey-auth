@@ -1,5 +1,5 @@
-import { init } from '@/services/init-registration';
-import { verify } from '@/services/verify-registration';
+import { init } from '@/services/registration/init-registration';
+import { verify } from '@/services/registration/verify-registration';
 import { startRegistration } from '@simplewebauthn/browser';
 import { toast } from '@/shared/components/ui/toast';
 
