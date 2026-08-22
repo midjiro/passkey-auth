@@ -1,4 +1,4 @@
-# Design Features
+# Passkey Auth
 
 ## Technologies
 
@@ -15,7 +15,7 @@ Showcase of how passkey auth can be done with Next.js, PostgreSQL, and @simplewe
 
 - Clone Repository
 
-    `git clone https://github.com/midjiro/design-features.git`
+    `git clone https://github.com/midjiro/passkey-auth.git`
 
 - Install deps
 
