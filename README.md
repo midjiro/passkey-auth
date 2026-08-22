@@ -2,8 +2,8 @@
 
 ## Technologies
 
-![](https://img.shields.io/badge/nextdotjs-20232A?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![](https://img.shields.io/badge/shadcnui-20232A?style=for-the-badge&logo=shadcnui&logoColor=fff)
+![](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![](https://img.shields.io/badge/shadcn/ui-20232A?style=for-the-badge&logo=shadcnui&logoColor=fff)
 ![](https://img.shields.io/badge/prisma-20232A?style=for-the-badge&logo=prisma&logoColor=fff)
 ![](https://img.shields.io/badge/webauthn-20232A?style=for-the-badge&logo=webauthn&logoColor=fff)
 
